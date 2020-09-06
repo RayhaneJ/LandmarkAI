@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sb/3paEa8leAmkwqjo6TPHwbSTI4HSOtrGSdt7tJl/7bdf3iOd+hK1gpXlUMx9ZnByJ0u7MU7GKl6oXvKEBEzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JEBBARI\\source\\repos\\LandmarkAI\\LandmarkAI\\LandmarkAI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JEBBARI\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
